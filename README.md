@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Katalon Studio Automation
-🌱 I’m currently learning Mobile App Automation
-👯 I’m looking to collaborate on Selenium with Java
-💬 Ask me about Manual Testing, API Testing, Automation Testing
-📫 How to reach me: surajshinde7317@outlook.com
-😄 Pronouns: He/Him
+- 🔭 I’m currently working on Katalon Studio Automation
+- 🌱 I’m currently learning Mobile App Automation
+- 👯 I’m looking to collaborate on Selenium with Java
+- 💬 Ask me about Manual Testing, API Testing, Automation Testing
+- 📫 How to reach me: surajshinde7317@outlook.com
+- 😄 Pronouns: He/Him

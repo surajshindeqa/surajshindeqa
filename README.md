@@ -58,3 +58,9 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=Figma&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179.svg?style=flat&logo=TestRail&logoColor=white)
 
+## 💻 GitHub Profile Stats
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajshindeqa)](https://github.com/surajshindeqa/github-readme-stats)
+

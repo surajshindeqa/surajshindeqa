@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajshindeqa/)](https://www.linkedin.com/in/surajshindeqa/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14672217/surajshindeqa)](https://stackoverflow.com/users/14672217/surajshindeqa)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white@link=mailto:surajshinde7317@outlook.com)](mailto:surajshinde7317@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:surajshinde7317@gmail.com)](mailto:surajshinde7317@gmail.com)
 
 
 ## ⚡ Technologies

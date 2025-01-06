@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Mobile App Automation
 - 👯 I’m looking to collaborate on Selenium with Java
 - 💬 Ask me about Manual Testing, API Testing, Automation Testing
-- 📫 How to reach me: surajshinde7317@outlook.com
+
+### 📬 Find me at
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajshindeqa/)](https://www.linkedin.com/in/surajshindeqa/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14672217/surajshindeqa)](https://stackoverflow.com/users/14672217/surajshindeqa)

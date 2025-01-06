@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Katalon Studio Automation
-- 🌱 I’m currently learning Mobile App Automation
-- 👯 I’m looking to collaborate on Selenium with Java
+- 🔭 I’m currently working on Katalon Studio and Playwright Automation
+- 👯 I’m looking to collaborate on Selenium with Java, Katalon Studio, Playwright
 - 💬 Ask me about Manual Testing, API Testing, Automation Testing
 
 ### 📬 Find me at
@@ -41,5 +40,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=flat&logo=cucumber&logoColor=white)
 

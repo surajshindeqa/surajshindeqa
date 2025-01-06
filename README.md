@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=flat&logo=cucumber&logoColor=white)
+![Jmeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat&logo=Apache-JMeter&logoColor=white)
 
 ## 💻 Software and Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
@@ -54,4 +55,6 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=Figma&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179.svg?style=flat&logo=TestRail&logoColor=white)
 
